@@ -16,6 +16,8 @@ I’m a Computer Engineering graduate interested in building practical software 
 
 A learning project that combines an Angular frontend, FastAPI backend, Gemini tool calling, PostgreSQL employee data, and ChromaDB-based policy retrieval.
 
+**[🚀 Try the live demo](https://employee-ai-assistant-one.vercel.app/)** · **[View source code on GitHub](https://github.com/mohitpatil-devx/employee-ai-assistant)**
+
 **What it demonstrates**
 - Natural-language questions answered using AI tool calls
 - Employee data lookup and analytics backed by PostgreSQL
